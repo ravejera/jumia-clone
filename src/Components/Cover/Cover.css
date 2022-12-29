@@ -1,0 +1,40 @@
+.cover{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    max-width: 1000px;
+    margin: auto;
+    gap: 4rem;
+    margin-top: 2rem ;
+}
+.products-category{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.products-category>ul{
+    list-style-type: none;
+}
+.products-category>ul>li>a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    line-height: 2rem;
+    text-transform: capitalize;
+}
+.products-category>ul>li>a:hover{
+    color: orange;
+}
+.cover-images{
+    border: 1px solid black;
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+}
+
+.image{
+    /* max-width: 100%; */
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

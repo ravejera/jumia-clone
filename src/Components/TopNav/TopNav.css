@@ -1,0 +1,29 @@
+.top-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(231, 229, 229);
+}
+.top-nav>p{
+    color: rgb(227, 125, 9);
+    text-transform: capitalize;
+}
+.products>a{
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 0 12px;
+    color: rgb(227, 125, 9);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.products>a:hover{
+    color: black;
+}
+
+.par{
+    display: flex;
+    align-items: center;
+}
+.par>i{
+    color: rgb(227, 125, 9);
+    
+}

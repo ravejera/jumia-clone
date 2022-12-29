@@ -1,0 +1,12 @@
+.clothes-title{
+    background-color: rgb(164, 140, 197);
+    border-radius: 5px;
+    height: 3rem;
+    display: flex;
+    /* justify-content: baseline; */
+    margin-top: 3rem;
+}
+.clothes-title>h2{
+    text-transform: uppercase;
+    margin: auto;
+}

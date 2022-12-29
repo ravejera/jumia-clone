@@ -1,0 +1,132 @@
+.main-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: aliceblue;
+    
+}
+.main-nav>h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
+.main-nav>h2>i{
+    color: orange;
+}
+
+.search-section>input{
+    padding: 0.5rem 4rem;
+    border-radius: 4px;
+    border: 1px solid gray;
+}
+.search-section>button{
+    padding: 0.5rem 1rem;
+    margin-left: 10px;
+    border-radius: 4px;
+    border: 1px solid gray;
+    text-transform: capitalize;
+    background-color: orange;
+}
+.search-section>i{
+    position: absolute;
+    padding: 10px;
+    color: rgb(174, 171, 171);
+    text-align: center;
+  
+}
+/* cart */
+.cart>li>a{
+    color: black;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+.cart>li>a>span{
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    padding: 2px;
+    border-radius: 40%;
+}
+
+
+
+/* menu bar section */
+.menu-bar>ul{
+    display: flex;
+    list-style-type: none;
+}
+.menu-bar>ul>li{
+    padding: 0 12px;
+    text-decoration: none;
+}
+.menu-bar>ul>:hover .sub-menu{
+    display: block;
+}
+.menu-bar>ul>li>a{
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+}
+
+/* sub-menu 1 */
+.sub-menu{
+    position: absolute;
+    background: rgba(3, 3, 3, 0.8);
+    /* opacity: 0.5; */
+    padding: 3rem 1rem;
+    width: 15%;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    display: none;
+    right: 5rem;
+    z-index: 2;
+}
+
+.sub-menu>a{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    text-transform: capitalize;
+    line-height: 3rem;
+    font-size: 15px;
+}
+.sub-menu>a:hover{
+    color: orange;
+}
+/* .sub-menu>li>a:hover{
+color: black;
+}
+
+.sub-menu>li:hover{
+    background-color: white;
+    border-radius: 6px;
+    width: 100%;
+    padding: 1.5rem 0;
+} */
+
+.sub-menu>button{
+    width: 100%;
+    height: 2rem;
+    background-color: orange;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    margin-bottom: 12px;
+}
+.sub-menu>button:hover{
+    opacity: 0.7;
+}
+
+/* sub-menu 2 */
+/* .sub-menu2{
+    display: none;
+    position: absolute;
+}
+.sub-menu2>ul{
+    list-style-type: none;
+
+} */

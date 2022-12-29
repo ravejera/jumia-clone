@@ -1,0 +1,264 @@
+{
+    "Products": [
+        {
+            "id": 1,
+            "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+            "title": "sumsung-phone",
+            "price": "Ksh 22,000",
+            "initially": "Ksh 30,000",
+            "category": "electronics"
+        },
+       
+        {
+            "id": 2,
+            "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=367&q=80",
+            "title": "Oppo-phone",
+            "price": "Ksh 20,000",
+            "initially": "Ksh 25,000",
+            "category":"electronics"
+        },
+       
+        {
+            "id": 3,
+            "image": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "title": "Iphone",
+            "price": "Ksh 50,000",
+            "initially": "Ksh 70,000",
+            "category": "electronics"
+        },
+       
+        {
+            "id": 4,
+            "image": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "title": "iphone",
+            "price": "Ksh 22,000",
+            "initially": "Ksh 30,000",
+            "category": "electronics"
+        },
+       
+        {
+            "id": 5,
+            "image": "https://image.shutterstock.com/image-photo/4k-monitor-isolated-on-white-600w-357968483.jpg",
+            "title": "Tv",
+            "price": "Ksh 22,000",
+            "initially": "Ksh 30,000",
+            "category": "electronics"
+        },
+       
+        {
+            "id": 6,
+            "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "title": "speaker",
+            "price": "Ksh 22,000",
+            "initially": "Ksh 30,000",
+            "deal": "new deal",
+            "category": "electronics"
+        },
+       
+        {
+            "id": 7,
+            "image": "https://images.unsplash.com/photo-1531104985437-603d6490e6d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=839&q=80",
+            "title": "speaker",
+            "price": "Ksh 22,000",
+            "initially": "Ksh 30,000",
+            "category": "electronics"
+        },
+       
+        {
+            "id": 8,
+            "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "title": "microphone",
+            "price": "Ksh 22,000",
+            "initially": "Ksh 30,000",
+            "category": "electronics"
+        },
+       
+        {
+            "id": 9,
+            "image": "https://media.istockphoto.com/id/1305489264/photo/red-portable-wireless-speaker-isolated-on-white-background-mobile-loudspeaker-red-color-with.webp?s=612x612&w=is&k=20&c=MQ__650F25w-7eZiP2uIlpoi948GiftdziWH1AhRc7g=",
+            "title": "wireless speaker",
+            "price": "Ksh 22,000",
+            "initially": "Ksh 30,000",
+            "category": "electronics"
+        },
+       
+        {
+            "id": 10,
+            "image": "https://www.energysistem.com/cdnassets/products/44976/principal_2000.jpg",
+            "title": "earpods",
+            "price": "Ksh 22,000",
+            "initially": "Ksh 30,000",
+            "deal": "new deal",
+            "category": "electronics "
+        },
+       
+        {
+            "id": 11,
+            "image": "https://sweech.co.ke/wp-content/uploads/2022/01/Anker-Soundcore-Life-Q30-01.jpg",
+            "title": "headphones",
+            "price": "Ksh 22,000",
+            "initially": "Ksh 30,000",
+            "category": "electronics"
+        },
+       
+    
+        {
+            "id": 12,
+            "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=405&q=80",
+            "title": "women top",
+            "price": "ksh 1000",
+            "initially": "ksh 2000",
+            "deal": "new deal",
+            "category": "clothing"
+        },
+
+        {
+            "id": 13,
+            "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=436&q=80",
+            "title": "jacket",
+            "price": "ksh 2000",
+            "initially": "ksh 3000",
+            "category": "clothing"
+        },
+
+        {
+            "id": 14,
+            "image": "https://images.unsplash.com/photo-1588099768531-a72d4a198538?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "title": "shoes",
+            "price": "ksh 4000",
+            "initially": "ksh 4500",
+            "category": "clothing"
+        },
+
+        {
+            "id": 15,
+            "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+            "title": "shirt",
+            "price": "ksh 2000",
+            "initially": "ksh 2500",
+            "deal": "new deal",
+            "category": "clothing"
+        },
+
+        {
+            "id": 16,
+            "image": "https://images.unsplash.com/photo-1554568218-0f1715e72254?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "title": "shirt",
+            "price": "ksh 2000",
+            "initially": "ksh 2500",
+            "category": "clothing"
+        },
+
+        {
+            "id": 17,
+            "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+            "title": "shoes",
+            "price": "ksh 4000",
+            "initially": "ksh 5000",
+            "category": "clothing"
+        },
+
+        {
+            "id": 18,
+            "image": "https://images.pexels.com/photos/5119398/pexels-photo-5119398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "title": "overcoat",
+            "price": "ksh 4000",
+            "initially": "ksh 4500",
+            "category": "clothing"
+        },
+
+        {
+            "id": 19,
+            "image": "https://images.unsplash.com/photo-1618354691551-44de113f0164?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=415&q=80",
+            "title": "t shirt",
+            "price": "ksh 2000",
+            "initially": "ksh 2500",
+            "category": "clothing"
+        },
+        
+        {
+            "id": 20,
+            "image": "https://images.unsplash.com/photo-1585487000143-9bcec9b8e483?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=391&q=80",
+            "title": "dress",
+            "price": "ksh 2500",
+            "initially": "ksh 3000",
+            "category": "clothing"
+        },
+
+        {
+            "id": 21,
+            "image": "https://images.pexels.com/photos/45055/pexels-photo-45055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "title": "tie",
+            "price": "ksh 500",
+            "initially": "ksh 700",
+            "category": "clothing"
+        },
+
+        {
+            "id": 22,
+            "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "title": "couch",
+            "price": "ksh 40000",
+            "initially": "ksh 45000",
+            "category": "furniture"
+        },
+
+        {
+            "id": 23,
+            "image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "title": "armchair",
+            "price": "ksh 6000",
+            "initially": "ksh 7000",
+            "category": "furniture"
+        },
+
+        {
+            "id": 24,
+            "image": "https://images.unsplash.com/photo-1540932239986-30128078f3c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "title": "lamp lighting",
+            "price": "ksh 10000",
+            "initially": "ksh 15000",
+            "deal": "new deal",
+            "category": "furniture"
+        },
+
+        {
+            "id": 25,
+            "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "title": "couch",
+            "price": "ksh 30000",
+            "initially": "ksh 35000",
+            "category": "furniture"
+        },
+
+        {
+            "id": 26,
+            "image": "https://images.pexels.com/photos/276534/pexels-photo-276534.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "title": "ksh fainting couch",
+            "price": "ksh 20000",
+            "initially": "25000",
+            "category": "furniture"
+        },
+
+        {
+            "id": 27,
+            "image": "https://images.pexels.com/photos/1528975/pexels-photo-1528975.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "title": "hanging mirror",
+            "price": "ksh 10000",
+            "initially": "ksh 12000",
+            "deal": "new deal",
+            "category": "furniture"
+        },
+
+        {
+            "id": 28,
+            "image": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1ksh ",
+            "title": "couch",
+            "price": "ksh 60000",
+            "initially": "ksh 70000",
+            "category": "furniture"
+        }
+    ]
+
+
+}

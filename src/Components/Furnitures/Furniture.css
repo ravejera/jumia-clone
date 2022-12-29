@@ -1,0 +1,41 @@
+.furniture{
+    max-width: 1000px;
+    margin: auto;
+    background-color: whitesmoke;
+    /* height: 60vh; */
+    border-radius: 5px;
+}
+.furniture-title{
+    background-color: orangered;
+    border-radius: 5px;
+    height: 3rem;
+    display: flex;
+    /* justify-content: baseline; */
+    margin-top: 3rem;
+}
+.furniture-title>h2{
+    margin: auto;
+    text-transform: uppercase;
+}
+.main-products{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding: 1rem;
+}
+.main-products>a>img{
+    object-fit: cover;
+}
+.main-products>a{
+    display: flex;
+    flex-direction: column;
+    line-height: 0.5rem;
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+}
+.main-products>a>p:nth-child(4){
+  text-decoration: line-through;
+}
+.main-products>a:hover{
+    color: orange;
+}

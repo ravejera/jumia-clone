@@ -1,0 +1,11 @@
+.first-top{
+    height: 40vh;
+    width: 100%;
+    background-color: white;
+  }
+  .navbar{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 3;
+  }
